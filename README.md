@@ -2,6 +2,9 @@
 
 Dash Terminal is a terminal simulator based on the Linux operating system. It provides users with an interactive command-line interface (CLI) experience, emulating the functionality and feel of a real Linux terminal.
 
+![image](https://github.com/DasunNethsara-04/Dash_Terminal/assets/99202052/00a191b5-59bb-4e7d-a0ed-36595521323b)
+
+
 ## Features
 
 - **Linux-like Interface**: Dash Terminal closely resembles the Linux terminal, making it familiar to Linux users.
