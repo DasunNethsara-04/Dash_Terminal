@@ -9,8 +9,6 @@ Dash Terminal is a terminal simulator based on the Linux operating system. It pr
 
 - **Linux-like Interface**: Dash Terminal closely resembles the Linux terminal, making it familiar to Linux users.
 - **Command Execution**: Execute a wide range of Linux commands and utilities.
-- **Customization**: Customize the appearance and behavior of the terminal to suit your preferences.
-- **Scripting Support**: Write and execute shell scripts within Dash Terminal.
 - **Cross-Platform**: Dash Terminal is designed to work on various platforms, including Windows, macOS, and Linux.
 
 ## Usage
